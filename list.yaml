@@ -1382,6 +1382,10 @@
   language: "PHP"
   license: "BSD"
 
+- name: "Pico"
+  website: "http://picocms.org/"
+  github: "picocms/Pico"
+  license: "MIT"
 
 - name: "PieCrust"
   website: "http://bolt80.com/piecrust/"
